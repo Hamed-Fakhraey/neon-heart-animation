@@ -1,40 +1,44 @@
+<div align="center">
+
 # Neon Heart Particle Animation 💖
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://hamed-fakhraey.github.io/neon-heart-animation/)
+**An immersive 3D experience powered by Three.js**
+
+[![Live Demo](https://img.shields.io/badge/🚀_View_Live-Click_Here-brightgreen?style=for-the-badge)](https://hamed-fakhraey.github.io/neon-heart-animation/)
+
+<!-- این خط زیر، همون گیفی هست که میگیری -->
+![Demo](demo.gif)
+
+</div>
 
 ---
-### 🌐 Select Language / انتخاب زبان
-[English](#english) | [فارسی](#persian)
----
 
-<!-- اینجا یه گیف از انیمیشنت بذار -->
-![Neon Heart Preview](https://via.placeholder.com/600x300.png?text=Add+your+GIF+or+Screenshot+here)
+### 🌐 Language Selection
+[🇬🇧 English](#english) | [🇮🇷 فارسی](#persian)
 
 ---
 
 <a name="english"></a>
 ## 🇬🇧 English
-An experimental Three.js project featuring a particle system that morphs between a star and a heart.
+This project is an experimental particle system demonstration. It utilizes **Three.js** to handle 10,000+ particles, creating a smooth morphing effect between a star and a heart.
 
-**Key Features:**
-- 10,000+ particles.
-- Smooth Morphing animation.
-- Responsive design.
-
-**View Live:** [Click here](https://hamed-fakhraey.github.io/neon-heart-animation/)
+### 🛠 Tech Stack
+- **Three.js** (3D Rendering)
+- **Vanilla JavaScript** (Logic)
+- **CSS3** (Styling)
 
 ---
 
 <a name="persian"></a>
 ## 🇮🇷 فارسی
-یک پروژه آزمایشی و خلاقانه با کتابخانه **Three.js** که شامل سیستم ذرات (Particle System) است و بین دو شکل ستاره و قلب تغییر حالت می‌دهد.
+این پروژه یک دمو از سیستم ذرات (Particle System) است. با استفاده از کتابخانه **Three.js**، بیش از ۱۰ هزار ذره به صورت نرم بین شکل ستاره و قلب تغییر حالت می‌دهند.
 
-**ویژگی‌های اصلی:**
-- بیش از ۱۰ هزار ذره.
-- انیمیشن نرم و جذاب.
-- طراحی واکنش‌گرا.
-
-**مشاهده آنلاین:** [کلیک کنید](https://hamed-fakhraey.github.io/neon-heart-animation/)
+### 🛠 تکنولوژی‌ها
+- **Three.js** (رندر سه‌بعدی)
+- **جاوا اسکریپت** (منطق برنامه)
+- **CSS3** (استایل‌دهی)
 
 ---
-*Created by Hamed Fakhraey* 🚀
+<div align="center">
+  <sub>Built with ❤️ by Hamed Fakhraey</sub>
+</div>
